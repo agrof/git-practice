@@ -16,7 +16,7 @@ mv moves files
 * have to go by command, item being commanded mv item_name place_moving_to
 
 
-Git: Steps for adding/saving content
+Git session 01-22: Steps for adding/saving content
 1. git add document.md 
 2. git commit -m "note about change that I was making"
 3. git push origin master (git push -u origin master, when first uploading doc onto github)
