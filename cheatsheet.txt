@@ -1,0 +1,22 @@
+this is my cheatsheet
+touch is for creating txt files 
+mkdir or "make directory" command to make a folder
+cat is for reading text files
+echo is for repeating things
+pwd is for printing working directory
+ls lists files and folders in a directory
+cd change directory to home folder
+cd .. go back to previous. will move you one directory up in the filesystem
+> s known as a "redirect." It takes the output of a command and puts it in a file
+>> command, known as the redirect and append command, instead. 
+        If there's already a file with text in it, this command can add text to the file without destroying and recreating it.
+-i means to ignore capitalizations/case sensitivity
+grep allows you to do searches in csv files 
+mv moves files 
+* have to go by command, item being commanded mv item_name place_moving_to
+
+
+Git: Steps for adding/saving content
+1. git add document.md 
+2. git commit -m "note about change that I was making"
+3. git push origin master (git push -u origin master, when first uploading doc onto github)
