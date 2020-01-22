@@ -17,6 +17,8 @@ mv moves files
 
 
 Git session 01-22: Steps for adding/saving content
+first, need to initialize the folder, in order for git to strt tracking folder 
+git init 
 1. git add document.md 
 2. git commit -m "note about change that I was making"
 3. git push origin master (git push -u origin master, when first uploading doc onto github)
