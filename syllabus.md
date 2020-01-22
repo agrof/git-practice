@@ -28,3 +28,6 @@ I might cancel class. Need some me time
 Book 1. By *author* year. Publication. Location
 
 Book 2. By *author* year. Publication. Location
+
+* testing git
+* testing git some more
